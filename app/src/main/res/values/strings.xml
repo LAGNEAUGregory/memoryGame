@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="msgBienvenue">게임에 오신 것을 환영합니다</string>
+    <string name="Boutton_name">Boutton</string>
+</resources>
